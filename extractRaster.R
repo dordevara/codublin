@@ -3,10 +3,6 @@
 rm(list = ls())
 graphics.off()
 
-# .libPaths("C:/Users/Roxana/anaconda3/envs/r_env/lib/R/library")
-# .libPaths()
-
-# install.packages("RColorBrewer", lib = "C:/Users/Roxana/anaconda3/envs/r_env/lib/R/library")
 library(raster)
 library(rgdal)
 #library(rgeos) # dealing with vector data
